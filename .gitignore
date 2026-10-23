@@ -6,3 +6,7 @@ Website/releases/
 dist/
 
 MacApp/.build/
+
+# Internal-only files
+rule.md
+buildlog.md
