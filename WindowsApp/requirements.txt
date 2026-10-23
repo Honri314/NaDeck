@@ -1,0 +1,6 @@
+# TrueNAS 관리 앱 (Windows) --- Python 3.9 이상, PySide6 기반
+PySide6>=6.6
+requests>=2.32
+
+# (선택) exe 패키징용
+# pyinstaller>=6.0

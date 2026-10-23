@@ -1,0 +1,8 @@
+.DS_Store
+__pycache__/
+node_modules/
+WindowsApp/portable_win/
+Website/releases/
+dist/
+
+MacApp/.build/
